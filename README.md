@@ -680,7 +680,7 @@ class Heap:
       self._heap_extraction(smallest_num)
   ```
 
-   > Extract Max:
+  > Extract Max:
 
   ```python
   def extract_max(self):
