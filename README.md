@@ -1926,7 +1926,7 @@ class Graph:
     print(f'Element {target_element} not found.')
   ```
 
-[Back to Top](#data-structure-and-algorithm)
+[Top](#data-structure-and-algorithm)
 
 ## Reference
 
