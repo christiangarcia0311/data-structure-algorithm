@@ -1,7 +1,7 @@
-![Static Badge](https://img.shields.io/badge/Data_Structure_Algorithm-gray)
-![Static Badge](https://img.shields.io/badge/python-programming-%233776AB?logo=Python&logoColor=yellow)
-![Static Badge](https://img.shields.io/badge/data-structure-red)
-![Static Badge](https://img.shields.io/badge/algorithm-brown)
+![Static Badge](https://img.shields.io/badge/Data_Structure_Algorithm-gray?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/python-programming-%233776AB?logo=Python&logoColor=yellow&style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/data-structure-red?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/algorithm-brown?style=for-the-badge)
 
 <h1 align="center">Data Structure and Algorithm</h1>
 
